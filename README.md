@@ -16,8 +16,6 @@ The pipeline:
 ---
 
 ##  Example Output
-<img width="1445" height="584" alt="image" src="https://github.com/tsalasofia/phosphene-simulator/Screenshot 2026-03-23 193223" />
-
 The output consists of four stages:
 - Original image
 - Grayscale version
